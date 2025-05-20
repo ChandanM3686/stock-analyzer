@@ -1,0 +1,9 @@
+streamlit
+selenium
+pandas
+plotly
+requests
+beautifulsoup4
+yfinance
+google-generativeai
+alpha_vantage
